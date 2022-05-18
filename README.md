@@ -4,6 +4,5 @@ Desenvolvedora em construção do Rio de Janeiro/RJ, atualmente trabalhando na *
 
 <div>
 <a href="https://github.com/gcruzdev">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcruzdev&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gcruzdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gcruzdev&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
 </div>
