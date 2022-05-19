@@ -2,11 +2,7 @@
 
 <div align='center'>
   <h2>Oi! 👋 Meu nome é Gabriela</h2>
-  <p>Desenvolvedora em construção do Rio de Janeiro. Técnica em Informática pelo <a href='http://www.cefet-rj.br/index.php/curso-tecnico-de-informatica'>CEFET/RJ</a>, atualmente trabalhando na <b>Concilie Online</b> :rocket: utilizando <code>Python</code> e <code>Django</code>. Apaixonada por Desenvolvimento Web e tudo que envolve tecnologia.<br/>
-    <table style="border: none">
-      <tr>
-        <td><b>Me encontre em: </b></td>
-        <td><a href='https://www.linkedin.com/in/gabriela-cruz-197873212'><img src='https://api.iconify.design/mdi/linkedin.svg?color=%237fdac9&width=25&height=25'></a><a href='mailto:gabrielasnts30@gmail.com'><img src='https://api.iconify.design/fluent/mail-16-regular.svg?color=%237fdac9&width=25&height=25'></a><a href='https://dev.to/gcruzdev'><img src='https://api.iconify.design/bxl/dev-to.svg?color=%237fdac9&width=25&height=25'></a></td>
+  <p>Desenvolvedora em construção do Rio de Janeiro. Técnica em Informática pelo <a href='http://www.cefet-rj.br/index.php/curso-tecnico-de-informatica'>CEFET/RJ</a>, atualmente trabalhando na <b>Concilie Online</b> :rocket: utilizando <code>Python</code> e <code>Django</code>. Apaixonada por Desenvolvimento Web e tudo que envolve tecnologia.<br/><b>Me encontre em: </b><a href='https://www.linkedin.com/in/gabriela-cruz-197873212'><img src='https://api.iconify.design/mdi/linkedin.svg?color=%237fdac9&width=20&height=20'></a><a href='mailto:gabrielasnts30@gmail.com'><img src='https://api.iconify.design/fluent/mail-16-regular.svg?color=%237fdac9&width=20&height=20'></a><a href='https://dev.to/gcruzdev'><img src='https://api.iconify.design/bxl/dev-to.svg?color=%237fdac9&width=20&height=20'></a>
       </tr>
   </table>
   <h3>Tecnologias</h3>
