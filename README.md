@@ -6,7 +6,7 @@
       </tr>
   </table>
   <h3>Tecnologias</h3>
-  <p><a href="https://www.python.org/" title="Python"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></a>   <a href="https://www.djangoproject.com/" title="Django"><img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"></a>   <a href="https://reactjs.org/" title="React"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" ></a>   <a href="https://sass-lang.com/" title="Sass"><img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="Sass"></a>   <a href="https://jquery.com/" title="jQuery"><img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"></a></p>
+  <p><a href="https://www.python.org/" title="Python"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></a>   <a href="https://www.djangoproject.com/" title="Django"><img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"></a>   <a href="https://reactjs.org/" title="React"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" ></a>   <a href="https://sass-lang.com/" title="Sass"><img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="Sass"></a>   </p>
 
   <div>
   <a href="https://github.com/gcruzdev">
